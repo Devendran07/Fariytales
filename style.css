@@ -1,0 +1,41 @@
+body
+{
+
+	background-image: url(./d2.jpeg);
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+.con1 p
+{
+	padding-right:60%; 
+	margin-left: 20px;
+	font-family: Gabriola;
+    
+}
+.con2 p
+ {
+ 	padding-right:60%; 
+	margin-left: 20px;
+	font-family: Gabriola;
+
+    
+}
+.con1 img
+{
+	margin-right:5%;
+	border-radius: 20px;
+	
+}
+.con2 img
+{
+	margin-right: 5%;
+	border-radius: 20px;
+	margin-top: 40px;
+}
+.con3 img
+{
+	margin-left:  5%;
+	border-radius: 20px;
+	margin-top: 40px;
+}
